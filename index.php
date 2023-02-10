@@ -45,7 +45,7 @@
                     <label for="email" class="form-label">
                         Email
                     </label>
-                    <input type="email" name="esmail" id="email" class="form-control" placeholder="name@example.com">
+                    <input type="email" name="email" id="email" class="form-control" placeholder="name@example.com">
                 </div>
                 <div class="mb-3">
                     <button class="btn btn-primary">
